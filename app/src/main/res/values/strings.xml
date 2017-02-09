@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTaskEnhance_09-FEB</string>
+
+    <string name="hint_num">enter number here</string>
+    <string name="numbertype_toast">enter a 5-digit number or less</string>
+
+</resources>
